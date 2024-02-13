@@ -5,6 +5,7 @@
 
 This is a humorous game written in Python
 The goal in this game is to entertain.
+I use it to generate funny sentences including my cats, so the data for the sentences is selected for the case.
 
 ## I used random to create different funny sentences.
 ## Gameplay Screenshot:
